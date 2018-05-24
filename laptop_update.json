@@ -1,0 +1,13 @@
+{
+    "BrandName": "Apple update",
+    "Features": {
+        "Feature": [
+            "8GB RAM",
+            "554TB Hard Drive",
+			"touch Pad",
+			"update"
+        ]
+    },
+    "Id": 554,
+    "LaptopName": "Mac pro update"
+}
